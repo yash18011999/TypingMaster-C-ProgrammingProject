@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "tt.h"
-#include "welcome.c"
+#include "welcome.c"  /* external headerfile */
 
 FILE *fulist;	/*user list file*/
 FILE *fuser;	/*current user data file*/
